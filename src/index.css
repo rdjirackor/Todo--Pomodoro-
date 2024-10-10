@@ -1,0 +1,17 @@
+
+.brand-logo{
+  display:flex;
+  text-align: left;
+  margin-left:2%;
+  font-style: italic;
+  font-size: larger;
+  width: 30%;
+  }
+
+
+.page-head{
+
+  text-align: center;
+  font-style: bold;
+  font-size: larger;
+}

@@ -1,0 +1,27 @@
+/* Start Button Styling */
+.button-container{
+    background-color: #3938ee;
+    color: white;
+    font-size: 1.5rem; 
+    font-weight: bold; 
+    padding: 10px 20px;
+    border: none; 
+    border-radius: 25px; 
+    cursor: pointer; 
+    transition: background-color 0.3s, transform 0.2s; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    margin-top: 10%;
+    width: 100%;
+
+
+}
+/* Hover effect */
+.button-container:hover {
+    background-color: #5300f1; 
+    transform: translateY(-2px);
+    
+  }
+  
+  .button-container:active {
+    transform: translateY(1px); 
+  }
